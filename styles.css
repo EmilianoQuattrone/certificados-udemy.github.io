@@ -1,0 +1,73 @@
+body {
+
+    background-image: url("./img/Udemy.png");
+    background-repeat: no-repeat;
+    background-position: center top;
+    width: 1500px;
+    height: 1000px;
+}
+
+span {
+
+    display: block;
+}
+
+.titulo {
+
+    font-size: 50px;
+    font-family: monospace;
+}
+
+.img-js {
+
+    background-image: url("./img/js.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50px;
+}
+
+.img-node {
+
+    background-image: url("./img/node.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 60px;
+    width: 180px;
+}
+
+.img-react {
+
+    background-image: url("./img/react1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px;
+    width: 170px;
+}
+
+.img-sql {
+
+    background-image: url("./img/sql.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px;
+    width: 180px;
+}
+
+.img-git {
+
+    background-image: url("./img/git.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 80px;
+    width: 180px;
+}
+
+.margin-js {
+
+    display: flex;
+}
